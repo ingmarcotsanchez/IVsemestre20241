@@ -130,6 +130,7 @@ section{
 .btn:hover{
     background-color: transparent;
     border: 2px solid var(--primario);
+    color: var(--primario);
 }
 /* -- Estilos del feature --*/
 /*se crea el archivo js*/
